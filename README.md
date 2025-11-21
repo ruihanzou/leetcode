@@ -35,7 +35,7 @@ LeetCode/
 
 ## 环境要求
 
-- JDK 17 或更高版本
+- JDK 21 或更高版本
 - Maven（可选，用于构建和测试）
 - IDE（如 IntelliJ IDEA、Eclipse 等）
 
